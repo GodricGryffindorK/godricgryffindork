@@ -8,13 +8,13 @@ I have extensive experience integrating **third-party services** such as **SendG
 
 ## 🛠️ Skill Set
 
-✔️ **FrontEnd**: React/Redux, Next.js, Vue/Nuxt.js, Angular, WordPress, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap, MUI, ANTD<br>
+✔️ **FrontEnd**: React/Redux, Next.js, Vue/Nuxt.js, Angular, WordPress, JavaScript/TypeScript, jQuery, Tailwind CSS<br>
 ✔️ **BackEnd**: Node.js, Express.js, Nest.js, PHP, Laravel, Python<br>
 ✔️ **API Integration & Data Handling**: RESTful APIs, GraphQL, WebSocket<br>
 ✔️ **Mobile**: React Native, Flutter, Android, iOS<br>
 ✔️ **Databases**: MySQL, PostgreSQL, MongoDB<br>
 ✔️ **DevOps & Infrastrucutre**: Docker, Kubernetes, Github Actions, Azure, AWS, CI/CD pipelines<br>
-✔️ **Third-Party Services**: SendGrid, MailGun, AmazonSES, Stripe, PayPal, OAuth, Firebase, Twilio, Salesforce, Shopify, WooCommerce<br>
+✔️ **Third-Party Services**: SendGrid, MailGun, Stripe, PayPal, OAuth, Firebase, Twilio, Salesforce, Shopify, WooCommerce<br>
 
 ## 📫 Connect with Me
 anton.prusinski@gmail.com
